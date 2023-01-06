@@ -1,0 +1,762 @@
+[
+    [
+        {
+            "name": "MacBook Air",
+            "price": 1299,
+            "color": [
+                {
+                    "colorName": "space-gray",
+                    "img": "./macbook-air-space-gray-select-201810.jfif"
+                },
+                {
+                    "colorName": "silver",
+                    "img": "./macbook-air-silver-select-201810.jfif"
+                },
+                {
+                    "colorName": "gold",
+                    "img": "./macbook-air-gold-select-201810.jfif"
+                }
+            ],
+            "desirable": {
+                "Processor": [
+                    {
+                        "text": "1.1GHz quad-core 10th-generation Intel Core i5 processor, Turbo Boost up to 3.5GHz",
+                        "add": 0
+                    },
+                    {
+                        "text": "1.2GHz quad-core 10th-generation Intel Core i7 processor, Turbo Boost up to 3.8GHz",
+                        "add": 150
+                    }
+                ],
+                "Memory": [
+                    {
+                        "text": "8GB 3733MHz LPDDR4X memory",
+                        "add": 0
+                    },
+                    {
+                        "text": "16GB 3733MHz LPDDR4X memory",
+                        "add": 200
+                    }
+                ],
+                "Storage": [
+                    {
+                        "text": "512GB SSD storage",
+                        "add": 0
+                    },
+                    {
+                        "text": "1TB SSD storage",
+                        "add": 200
+                    },
+                    {
+                        "text": "2TB SSD storage",
+                        "add": 600
+                    }
+                ]
+            }
+        },
+        {
+            "name": "MacBook Pro 13-inch",
+            "price": 1799,
+            "color": [
+                {
+                    "colorName": "space-gray",
+                    "img": "./mbp13touch-space.png"
+                },
+                {
+                    "colorName": "silver",
+                    "img": "./mbp13touch-silver.png"
+                }
+            ],
+            "desirable": {
+                "Processor": [
+                    {
+                        "text": "2.4GHz quad-core 8th-generation Intel Care i5 pracess sgzr, Turtaa Boast up to 4.1GHz",
+                        "add": 0
+                    },
+                    {
+                        "text": "2.8GHz quad-core 8th-generation Intel Care i7 pracess sgzr, Turtaa Boast up to 4.7GHz",
+                        "add": 300
+                    }
+                ],
+                "Memory": [
+                    {
+                        "text": "8GB 2133MHz LPDDR3 memory",
+                        "add": 0
+                    },
+                    {
+                        "text": "16GB 3733MHz LPDDR4X memory",
+                        "add": 200
+                    }
+                ],
+                "Storage": [
+                    {
+                        "text": "256GB SSD storage",
+                        "add": 0
+                    },
+                    {
+                        "text": "512GB SSD storage",
+                        "add": 200
+                    },
+                    {
+                        "text": "1TB SSD storage",
+                        "add": 400
+                    },
+                    {
+                        "text": "2TB SSD storage",
+                        "add": 800
+                    }
+                ]
+            }
+        },
+        {
+            "name": "MacBook Pro 16-inch",
+            "price": 2799,
+            "color": [
+                {
+                    "colorName": "space-gray",
+                    "img": "./mbp16touch-space-select-201911_GEO_TW.jfif"
+                },
+                {
+                    "colorName": "silver",
+                    "img": "./mbp16touch-silver-select-201911_GEO_TW.jfif"
+                }
+            ],
+            "desirable": {
+                "Processor": [
+                    {
+                        "text": "2.3GHz 8-care 9th-generatic stian Intel Care i9 pracesspr, Turbo Boost up to 4.8GHz",
+                        "add": 0
+                    },
+                    {
+                        "text": "2.4GHz 8-care 9th-generatian Intel Care ig pracessor, Turba Boast up to 5.0GHz",
+                        "add": 200
+                    }
+                ],
+                "Memory": [
+                    {
+                        "text": "16GB 2666MHz DDR4 memary",
+                        "add": 0
+                    },
+                    {
+                        "text": "32GB 2666MHz DDR4 memary",
+                        "add": 400
+                    },
+                    {
+                        "text": "64GB 2666MHz DOR4 memary",
+                        "add": 800
+                    }
+                ],
+                "Graphics": [
+                    {
+                        "text": "AMD Radeon Pro 5500M with 4GB of GDDR6 memory",
+                        "add": 0
+                    },
+                    {
+                        "text": "AMD Radeon Pra S500M with 8GB of GDDR6 memory",
+                        "add": 0
+                    }
+                ],
+                "Storage": [
+                    {
+                        "text": "1TB SSD storage",
+                        "add": 0
+                    },
+                    {
+                        "text": "2TB SSD storage",
+                        "add": 400
+                    },
+                    {
+                        "text": "4TB SSD storage",
+                        "add": 1000
+                    },
+                    {
+                        "text": "8TB SSD storage",
+                        "add": 2200
+                    }
+                ]
+            }
+        }
+    ],
+    [
+        {
+            "name": "11-inch iPad Pro",
+            "price": 799,
+            "color": [
+                {
+                    "colorName": "space-gray",
+                    "img": "./ipad-pro-11-select-cell-spacegray-202003.png"
+                },
+                {
+                    "colorName": "silver",
+                    "img": "./ipad-pro-11-select-cell-silver-202003.png"
+                }
+            ],
+            "desirable": {
+                "storage": [
+                    {
+                        "text": "128GB",
+                        "add": 0
+                    },
+                    {
+                        "text": "256GB",
+                        "add": 200
+                    },
+                    {
+                        "text": "512GB",
+                        "add": 400
+                    },
+                    {
+                        "text": "1TB",
+                        "add": 600
+                    }
+                ],
+                "connectivity": [
+                    {
+                        "text": "Wi-Fi",
+                        "add": 0
+                    },
+                    {
+                        "text": "Wi-Fi + cellular",
+                        "add": 150
+                    }
+                ]
+            }
+        },
+        {
+            "name": "12.9-inch iPad Pro",
+            "price": 999,
+            "color": [
+                {
+                    "colorName": "space-gray",
+                    "img": "./01.png"
+                },
+                {
+                    "colorName": "silver",
+                    "img": "./02.png"
+                }
+            ],
+            "desirable": {
+                "storage": [
+                    {
+                        "text": "128GB",
+                        "add": 0
+                    },
+                    {
+                        "text": "256GB",
+                        "add": 200
+                    },
+                    {
+                        "text": "512GB",
+                        "add": 400
+                    },
+                    {
+                        "text": "1TB",
+                        "add": 600
+                    }
+                ],
+                "connectivity": [
+                    {
+                        "text": "Wi-Fi",
+                        "add": 0
+                    },
+                    {
+                        "text": "Wi-Fi + cellular",
+                        "add": 150
+                    }
+                ]
+            }
+        },
+        {
+            "name": "iPad mini",
+            "price": 399,
+            "color": [
+                {
+                    "colorName": "space-gray",
+                    "img": "./03.png"
+                },
+                {
+                    "colorName": "silver",
+                    "img": "./04.png"
+                },
+                {
+                    "colorName": "gold",
+                    "img": "./05.png"
+                }
+            ],
+            "desirable": {
+                "storage": [
+                    {
+                        "text": "64GB",
+                        "add": 0
+                    },
+                    {
+                        "text": "256GB",
+                        "add": 150
+                    }
+                ],
+                "connectivity": [
+                    {
+                        "text": "Wi-Fi",
+                        "add": 0
+                    },
+                    {
+                        "text": "Wi-Fi + cellular",
+                        "add": 130
+                    }
+                ]
+            }
+        },
+        {
+            "name": "iPad",
+            "price": 329,
+            "color": [
+                {
+                    "colorName": "space-gray",
+                    "img": "./06.png"
+                },
+                {
+                    "colorName": "silver",
+                    "img": "./07.png"
+                },
+                {
+                    "colorName": "gold",
+                    "img": "./08.png"
+                }
+            ],
+            "desirable": {
+                "storage": [
+                    {
+                        "text": "32GB",
+                        "add": 0
+                    },
+                    {
+                        "text": "128GB",
+                        "add": 100
+                    }
+                ],
+                "connectivity": [
+                    {
+                        "text": "Wi-Fi",
+                        "add": 0
+                    },
+                    {
+                        "text": "Wi-Fi + cellular",
+                        "add": 130
+                    }
+                ]
+            }
+        },
+        {
+            "name": "iPad Air",
+            "price": 499,
+            "color": [
+                {
+                    "colorName": "space-gray",
+                    "img": "./09.png"
+                },
+                {
+                    "colorName": "silver",
+                    "img": "./10.png"
+                },
+                {
+                    "colorName": "gold",
+                    "img": "./11.png"
+                }
+            ],
+            "desirable": {
+                "storage": [
+                    {
+                        "text": "64GB",
+                        "add": 0
+                    },
+                    {
+                        "text": "256GB",
+                        "add": 150
+                    }
+                ],
+                "connectivity": [
+                    {
+                        "text": "Wi-Fi",
+                        "add": 0
+                    },
+                    {
+                        "text": "Wi-Fi + cellular",
+                        "add": 130
+                    }
+                ]
+            }
+        }
+    ],
+    [
+        {
+            "name": "iPhone 11 Pro",
+            "price": 999,
+            "color": [
+                {
+                    "colorName": "space-gray",
+                    "img": "./12.png"
+                },
+                {
+                    "colorName": "silver",
+                    "img": "./13.png"
+                },
+                {
+                    "colorName": "midnight green",
+                    "img": "./14.png"
+                },
+                {
+                    "colorName": "gold",
+                    "img": "./15.png"
+                }
+            ],
+            "desirable": {
+                "storage": [
+                    {
+                        "text": "64GB",
+                        "add": 0
+                    },
+                    {
+                        "text": "128GB",
+                        "add": 150
+                    },
+                    {
+                        "text": "512GB",
+                        "add": 450
+                    }
+                ]
+            }
+        },
+        {
+            "name": "iPhone 11 Pro Max",
+            "price": 1099,
+            "color": [
+                {
+                    "colorName": "space-gray",
+                    "img": "./16.png"
+                },
+                {
+                    "colorName": "silver",
+                    "img": "./17.png"
+                },
+                {
+                    "colorName": "midnight green",
+                    "img": "./18.png"
+                },
+                {
+                    "colorName": "gold",
+                    "img": "./19.png"
+                }
+            ],
+            "desirable": {
+                "storage": [
+                    {
+                        "text": "64GB",
+                        "add": 0
+                    },
+                    {
+                        "text": "128GB",
+                        "add": 150
+                    },
+                    {
+                        "text": "512GB",
+                        "add": 450
+                    }
+                ]
+            }
+        },
+        {
+            "name": "iPhone 11",
+            "price": 699,
+            "color": [
+                {
+                    "colorName": "white",
+                    "img": "./20.png"
+                },
+                {
+                    "colorName": "black",
+                    "img": "./21.png"
+                },
+                {
+                    "colorName": "green",
+                    "img": "./22.png"
+                },
+                {
+                    "colorName": "yellow",
+                    "img": "./23.png"
+                },
+                {
+                    "colorName": "purple",
+                    "img": "./24.png"
+                },
+                {
+                    "colorName": "red",
+                    "img": ".25.png"
+                }
+            ],
+            "desirable": {
+                "storage": [
+                    {
+                        "text": "64GB",
+                        "add": 0
+                    },
+                    {
+                        "text": "128GB",
+                        "add": 150
+                    },
+                    {
+                        "text": "512GB",
+                        "add": 250
+                    }
+                ]
+            }
+        },
+        {
+            "name": "iPhone XR",
+            "price": 599,
+            "color": [
+                {
+                    "colorName": "white",
+                    "img": "./26.png"
+                },
+                {
+                    "colorName": "black",
+                    "img": "./27.png"
+                },
+                {
+                    "colorName": "blue",
+                    "img": "./28.png"
+                },
+                {
+                    "colorName": "yellow",
+                    "img": "./29.png"
+                },
+                {
+                    "colorName": "coral",
+                    "img": "./30.png"
+                },
+                {
+                    "colorName": "red",
+                    "img": "./31.png"
+                }
+            ],
+            "desirable": {
+                "storage": [
+                    {
+                        "text": "64GB",
+                        "add": 0
+                    },
+                    {
+                        "text": "128GB",
+                        "add": 150
+                    }
+                ]
+            }
+        },
+        {
+            "name": "iPhone 8",
+            "price": 449,
+            "color": [
+                {
+                    "colorName": "space-gray",
+                    "img": "./32.png"
+                },
+                {
+                    "colorName": "silver",
+                    "img": "./33.png"
+                },
+                {
+                    "colorName": "gold",
+                    "img": "./34.png"
+                }
+            ],
+            "desirable": {
+                "storage": [
+                    {
+                        "text": "64GB",
+                        "add": 0
+                    },
+                    {
+                        "text": "128GB",
+                        "add": 50
+                    }
+                ]
+            }
+        },
+        {
+            "name": "iPhone 8 Plus",
+            "price": 549,
+            "color": [
+                {
+                    "colorName": "space-gray",
+                    "img": "./35.png"
+                },
+                {
+                    "colorName": "silver",
+                    "img": "./36.png"
+                },
+                {
+                    "colorName": "gold",
+                    "img": "./37.png"
+                }
+            ],
+            "desirable": {
+                "storage": [
+                    {
+                        "text": "64GB",
+                        "add": 0
+                    },
+                    {
+                        "text": "128GB",
+                        "add": 50
+                    }
+                ]
+            }
+        }
+    ],
+    [
+        {
+            "name": "Apple Watch Ultra",
+            "price": 839,
+            "color": [
+                {
+                    "colorName": "green",
+                    "img": "./38.png"
+                },
+                {
+                    "colorName": "space-gray",
+                    "img": "./39.png"
+                },
+                {
+                    "colorName": "coral",
+                    "img": "./40.png"
+                }
+            ],
+            "desirable": {
+                "size": [
+                    {
+                        "text": "38mm",
+                        "add": 0
+                    },
+                    {
+                        "text": "42mm",
+                        "add": 30
+                    }
+                ],
+                "connectivity": [
+                    {
+                        "text": "GPS",
+                        "add": 0
+                    },
+                    {
+                        "text": "GPS + cellular",
+                        "add": 100
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Apple Watch Series 8",
+            "price": 429,
+            "color": [
+                {
+                    "colorName": "purple",
+                    "img": "./41.png"
+                },
+                {
+                    "colorName": "blue",
+                    "img": "./42.png"
+                },
+                {
+                    "colorName": "black",
+                    "img": "./43.png"
+                },
+                {
+                    "colorName": "space-white",
+                    "img": "./44.png"
+                },
+                {
+                    "colorName": "rainbow",
+                    "img": "./45.png"
+                },
+                {
+                    "colorName": "red",
+                    "img": "./46.png"
+                }
+            ],
+            "desirable": {
+                "size": [
+                    {
+                        "text": "41mm",
+                        "add": 0
+                    },
+                    {
+                        "text": "45mm",
+                        "add": 30
+                    }
+                ],
+                "connectivity": [
+                    {
+                        "text": "GPS",
+                        "add": 0
+                    },
+                    {
+                        "text": "GPS + cellular",
+                        "add": 100
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Apple Watch SE",
+            "price": 259,
+            "color": [
+                {
+                    "colorName": "yellow",
+                    "img": "./47.png"
+                },
+                {
+                    "colorName": "blue",
+                    "img": "./48.png"
+                },
+                {
+                    "colorName": "pink",
+                    "img": "./49.png"
+                },
+                {
+                    "colorName": "navy blue",
+                    "img": "./50.png"
+                },
+                {
+                    "colorName": "black",
+                    "img": "./51.png"
+                },
+                {
+                    "colorName": "white",
+                    "img": "./52.png"
+                }
+            ],
+            "desirable": {
+                "size": [
+                    {
+                        "text": "40mm",
+                        "add": 0
+                    },
+                    {
+                        "text": "44mm",
+                        "add": 30
+                    }
+                ],
+                "connectivity": [
+                    {
+                        "text": "GPS",
+                        "add": 0
+                    },
+                    {
+                        "text": "GPS + cellular",
+                        "add": 100
+                    }
+                ]
+            }
+        }
+    ]
+]
