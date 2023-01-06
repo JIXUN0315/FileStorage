@@ -6,14 +6,17 @@
             "color": [
                 {
                     "colorName": "space-gray",
+                    "rgb": "rgb(141, 141, 141)",
                     "img": "./macbook-air-space-gray-select-201810.jfif"
                 },
                 {
                     "colorName": "silver",
+                    "rgb": "rgb(219, 219, 219)",
                     "img": "./macbook-air-silver-select-201810.jfif"
                 },
                 {
                     "colorName": "gold",
+                    "rgb": "rgb(255, 216, 131)",
                     "img": "./macbook-air-gold-select-201810.jfif"
                 }
             ],
@@ -60,10 +63,12 @@
             "color": [
                 {
                     "colorName": "space-gray",
+                    "rgb": "rgb(141, 141, 141)",
                     "img": "./mbp13touch-space.png"
                 },
                 {
                     "colorName": "silver",
+                    "rgb": "rgb(219, 219, 219)",
                     "img": "./mbp13touch-silver.png"
                 }
             ],
@@ -114,10 +119,12 @@
             "color": [
                 {
                     "colorName": "space-gray",
+                    "rgb": "rgb(141, 141, 141)",
                     "img": "./mbp16touch-space-select-201911_GEO_TW.jfif"
                 },
                 {
                     "colorName": "silver",
+                    "rgb": "rgb(219, 219, 219)",
                     "img": "./mbp16touch-silver-select-201911_GEO_TW.jfif"
                 }
             ],
@@ -184,10 +191,12 @@
             "color": [
                 {
                     "colorName": "space-gray",
+                    "rgb": "rgb(141, 141, 141)",
                     "img": "./ipad-pro-11-select-cell-spacegray-202003.png"
                 },
                 {
                     "colorName": "silver",
+                    "rgb": "rgb(219, 219, 219)",
                     "img": "./ipad-pro-11-select-cell-silver-202003.png"
                 }
             ],
@@ -228,10 +237,12 @@
             "color": [
                 {
                     "colorName": "space-gray",
+                    "rgb": "rgb(141, 141, 141)",
                     "img": "./01.png"
                 },
                 {
                     "colorName": "silver",
+                    "rgb": "rgb(219, 219, 219)",
                     "img": "./02.png"
                 }
             ],
@@ -272,14 +283,17 @@
             "color": [
                 {
                     "colorName": "space-gray",
+                    "rgb": "rgb(141, 141, 141)",
                     "img": "./03.png"
                 },
                 {
                     "colorName": "silver",
+                    "rgb": "rgb(219, 219, 219)",
                     "img": "./04.png"
                 },
                 {
                     "colorName": "gold",
+                    "rgb": "rgb(255, 216, 131)",
                     "img": "./05.png"
                 }
             ],
@@ -312,14 +326,17 @@
             "color": [
                 {
                     "colorName": "space-gray",
+                    "rgb": "rgb(141, 141, 141)",
                     "img": "./06.png"
                 },
                 {
                     "colorName": "silver",
+                    "rgb": "rgb(219, 219, 219)",
                     "img": "./07.png"
                 },
                 {
                     "colorName": "gold",
+                    "rgb": "rgb(255, 216, 131)",
                     "img": "./08.png"
                 }
             ],
@@ -352,14 +369,17 @@
             "color": [
                 {
                     "colorName": "space-gray",
+                    "rgb": "rgb(141, 141, 141)",
                     "img": "./09.png"
                 },
                 {
                     "colorName": "silver",
+                    "rgb": "rgb(219, 219, 219)",
                     "img": "./10.png"
                 },
                 {
                     "colorName": "gold",
+                    "rgb": "rgb(255, 216, 131)",
                     "img": "./11.png"
                 }
             ],
@@ -394,18 +414,22 @@
             "color": [
                 {
                     "colorName": "space-gray",
+                    "rgb": "rgb(141, 141, 141)",
                     "img": "./12.png"
                 },
                 {
                     "colorName": "silver",
+                    "rgb": "rgb(219, 219, 219)",
                     "img": "./13.png"
                 },
                 {
                     "colorName": "midnight green",
+                    "rgb": "rgb(11, 59, 13)",
                     "img": "./14.png"
                 },
                 {
                     "colorName": "gold",
+                    "rgb": "rgb(255, 216, 131)",
                     "img": "./15.png"
                 }
             ],
@@ -432,18 +456,22 @@
             "color": [
                 {
                     "colorName": "space-gray",
+                    "rgb": "rgb(141, 141, 141)",
                     "img": "./16.png"
                 },
                 {
                     "colorName": "silver",
+                    "rgb": "rgb(219, 219, 219)",
                     "img": "./17.png"
                 },
                 {
                     "colorName": "midnight green",
+                    "rgb": "rgb(11, 59, 13)",
                     "img": "./18.png"
                 },
                 {
                     "colorName": "gold",
+                    "rgb": "rgb(255, 216, 131)",
                     "img": "./19.png"
                 }
             ],
@@ -470,26 +498,32 @@
             "color": [
                 {
                     "colorName": "white",
+                    "rgb": "rgb(229, 226, 209)",
                     "img": "./20.png"
                 },
                 {
                     "colorName": "black",
+                    "rgb": "rgb(0, 0, 0)",
                     "img": "./21.png"
                 },
                 {
                     "colorName": "green",
+                    "rgb": "rgb(148, 212, 146)",
                     "img": "./22.png"
                 },
                 {
                     "colorName": "yellow",
+                    "rgb": "rgb(235, 217, 61)",
                     "img": "./23.png"
                 },
                 {
                     "colorName": "purple",
+                    "rgb": "rgb(203, 153, 204)",
                     "img": "./24.png"
                 },
                 {
                     "colorName": "red",
+                    "rgb": "rgb(146, 0, 0)",
                     "img": ".25.png"
                 }
             ],
@@ -516,26 +550,32 @@
             "color": [
                 {
                     "colorName": "white",
+                    "rgb": "rgb(229, 226, 209)",
                     "img": "./26.png"
                 },
                 {
                     "colorName": "black",
+                    "rgb": "rgb(0, 0, 0)",
                     "img": "./27.png"
                 },
                 {
                     "colorName": "blue",
+                    "rgb": "rgb(148, 212, 146)",
                     "img": "./28.png"
                 },
                 {
                     "colorName": "yellow",
+                    "rgb": "rgb(235, 217, 61)",
                     "img": "./29.png"
                 },
                 {
                     "colorName": "coral",
+                    "rgb": "rgb(203, 153, 204)",
                     "img": "./30.png"
                 },
                 {
                     "colorName": "red",
+                    "rgb": "rgb(146, 0, 0)",
                     "img": "./31.png"
                 }
             ],
@@ -558,14 +598,17 @@
             "color": [
                 {
                     "colorName": "space-gray",
+                    "rgb": "rgb(141, 141, 141)",
                     "img": "./32.png"
                 },
                 {
                     "colorName": "silver",
+                    "rgb": "rgb(219, 219, 219)",
                     "img": "./33.png"
                 },
                 {
                     "colorName": "gold",
+                    "rgb": "rgb(255, 216, 131)",
                     "img": "./34.png"
                 }
             ],
@@ -588,14 +631,17 @@
             "color": [
                 {
                     "colorName": "space-gray",
+                    "rgb": "rgb(141, 141, 141)",
                     "img": "./35.png"
                 },
                 {
                     "colorName": "silver",
+                    "rgb": "rgb(219, 219, 219)",
                     "img": "./36.png"
                 },
                 {
                     "colorName": "gold",
+                    "rgb": "rgb(255, 216, 131)",
                     "img": "./37.png"
                 }
             ],
@@ -620,14 +666,17 @@
             "color": [
                 {
                     "colorName": "green",
+                    "rgb": "rgb(148, 212, 146)",
                     "img": "./38.png"
                 },
                 {
                     "colorName": "space-gray",
+                    "rgb": "rgb(141, 141, 141)",
                     "img": "./39.png"
                 },
                 {
                     "colorName": "coral",
+                    "rgb": "rgb(211, 61, 24)",
                     "img": "./40.png"
                 }
             ],
@@ -660,26 +709,32 @@
             "color": [
                 {
                     "colorName": "purple",
+                    "rgb": "rgb(151, 104, 113)",
                     "img": "./41.png"
                 },
                 {
                     "colorName": "blue",
+                    "rgb": "rgb(88, 96, 113)",
                     "img": "./42.png"
                 },
                 {
                     "colorName": "black",
+                    "rgb": "rgb(106, 100, 89)",
                     "img": "./43.png"
                 },
                 {
                     "colorName": "space-white",
+                    "rgb": "rgb(233, 222, 212)",
                     "img": "./44.png"
                 },
                 {
                     "colorName": "rainbow",
+                    "rgb": "rgb(237, 212, 95)",
                     "img": "./45.png"
                 },
                 {
                     "colorName": "red",
+                    "rgb": "rgb(227, 65, 81)",
                     "img": "./46.png"
                 }
             ],
@@ -712,26 +767,32 @@
             "color": [
                 {
                     "colorName": "yellow",
+                    "rgb": "rgb(253, 200, 132)",
                     "img": "./47.png"
                 },
                 {
                     "colorName": "blue",
+                    "rgb": "rgb(183, 195, 191)",
                     "img": "./48.png"
                 },
                 {
                     "colorName": "pink",
+                    "rgb": "rgb(239, 213, 212)",
                     "img": "./49.png"
                 },
                 {
                     "colorName": "navy blue",
+                    "rgb": "rgb(90, 100, 109)",
                     "img": "./50.png"
                 },
                 {
                     "colorName": "black",
+                    "rgb": "rgb(78, 79, 84)",
                     "img": "./51.png"
                 },
                 {
                     "colorName": "white",
+                    "rgb": "rgb(226, 221, 215)",
                     "img": "./52.png"
                 }
             ],
