@@ -667,17 +667,17 @@
                 {
                     "colorName": "green",
                     "rgb": "rgb(148, 212, 146)",
-                    "img": "./38.png"
+                    "img": "./38.jfif"
                 },
                 {
                     "colorName": "space-gray",
                     "rgb": "rgb(141, 141, 141)",
-                    "img": "./39.png"
+                    "img": "./39.jfif"
                 },
                 {
                     "colorName": "coral",
                     "rgb": "rgb(211, 61, 24)",
-                    "img": "./40.png"
+                    "img": "./40.jfif"
                 }
             ],
             "desirable": {
@@ -710,32 +710,32 @@
                 {
                     "colorName": "purple",
                     "rgb": "rgb(151, 104, 113)",
-                    "img": "./41.png"
+                    "img": "./41.jfif"
                 },
                 {
                     "colorName": "blue",
                     "rgb": "rgb(88, 96, 113)",
-                    "img": "./42.png"
+                    "img": "./42.jfif"
                 },
                 {
                     "colorName": "black",
                     "rgb": "rgb(106, 100, 89)",
-                    "img": "./43.png"
+                    "img": "./43.jfif"
                 },
                 {
                     "colorName": "space-white",
                     "rgb": "rgb(233, 222, 212)",
-                    "img": "./44.png"
+                    "img": "./44.jfif"
                 },
                 {
                     "colorName": "rainbow",
                     "rgb": "rgb(237, 212, 95)",
-                    "img": "./45.png"
+                    "img": "./45.jfif"
                 },
                 {
                     "colorName": "red",
                     "rgb": "rgb(227, 65, 81)",
-                    "img": "./46.png"
+                    "img": "./46.jfif"
                 }
             ],
             "desirable": {
@@ -768,32 +768,32 @@
                 {
                     "colorName": "yellow",
                     "rgb": "rgb(253, 200, 132)",
-                    "img": "./47.png"
+                    "img": "./47.jfif"
                 },
                 {
                     "colorName": "blue",
                     "rgb": "rgb(183, 195, 191)",
-                    "img": "./48.png"
+                    "img": "./48.jfif"
                 },
                 {
                     "colorName": "pink",
                     "rgb": "rgb(239, 213, 212)",
-                    "img": "./49.png"
+                    "img": "./49.jfif"
                 },
                 {
                     "colorName": "navy blue",
                     "rgb": "rgb(90, 100, 109)",
-                    "img": "./50.png"
+                    "img": "./50.jfif"
                 },
                 {
                     "colorName": "black",
                     "rgb": "rgb(78, 79, 84)",
-                    "img": "./51.png"
+                    "img": "./51.jfif"
                 },
                 {
                     "colorName": "white",
                     "rgb": "rgb(226, 221, 215)",
-                    "img": "./52.png"
+                    "img": "./52.jfif"
                 }
             ],
             "desirable": {
